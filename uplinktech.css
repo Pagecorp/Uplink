@@ -88,6 +88,9 @@ ol{
     font-size: 16px;
     border: none;
   }
+.h {
+  color: #4877D8;
+}
   
  
   
@@ -125,4 +128,42 @@ ol{
 }
 .add-to-cart{
     color: blue;
+}
+.feat{
+  text-align: center;
+}
+#myCarousel{
+  height: 400px;
+  width: 1200px;
+  margin-left: -30px;
+}
+/*footer*/
+footer {
+	margin-top: 30px;
+	padding-top: 30px;
+	background-color: #303030;
+	border-top: 1px solid #ddd;
+  color: #e2e2e2;
+  max-height: 300px;
+}
+footer hr {
+	border-top: none;
+	border-bottom: 1px solid #666;
+}
+footer a {
+	color: #ccc;
+}
+footer a:hover {
+  color: #fff;
+  background-color: #4877D8;
+}
+footer h5 {
+	font-family: 'Open Sans', sans-serif;
+	font-size: 13px;
+	font-weight: bold;
+	color: #fff;
+}
+.list-unstyled{
+  margin: -10px;
+  padding: -10px;
 }
